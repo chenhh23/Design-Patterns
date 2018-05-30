@@ -1,7 +1,7 @@
 # Design-Patterns
 ### Abstract Factory(抽象工厂模式)
 
-![image](http://chimegitlab.d.chime.me/1go/design-patterns/uploads/3d67f53dc8c0a0f88eb411cee3d44b94/image.png)
+![image](https://github.com/chenhh23/Design-Patterns/blob/master/design-picture/AbstractFactory.png)
 
 #### 意图
 
@@ -133,7 +133,7 @@ public class Person {
 
 ### Builder(生成器模式)
 
-![image](http://chimegitlab.d.chime.me/1go/design-patterns/uploads/4bd1a4c8b9faf0b6dd0e3153bc71ccd5/image.png)
+![image](https://github.com/chenhh23/Design-Patterns/blob/master/design-picture/builder.png)
 
 #### 意图
 
@@ -248,7 +248,7 @@ public class Person {
 
 ### Factory Method(工厂方法)
 
-![image](http://chimegitlab.d.chime.me/1go/design-patterns/uploads/74bde6aa1b74a18c4c6670d20d9f3b8d/image.png)
+![image](https://github.com/chenhh23/Design-Patterns/blob/master/design-picture/FactoryMethod.png)
 
 #### 意图
 
@@ -327,7 +327,7 @@ public class ClothesShow {
 
 ### Prototype(原型)
 
-![image](http://chimegitlab.d.chime.me/1go/design-patterns/uploads/66cda16bf3da6a87392ce3ed0b32e1de/image.png)
+![image](https://github.com/chenhh23/Design-Patterns/blob/master/design-picture/prototype.png)
 
 #### 意图
 
@@ -406,7 +406,7 @@ public class Person {
 
 ### Singleton(单例模式)
 
-![image](http://chimegitlab.d.chime.me/1go/design-patterns/uploads/fbbb795e2c1905b2f6ca5bf46d1e1bb8/image.png)
+![image](https://github.com/chenhh23/Design-Patterns/blob/master/design-picture/singleton.png)
 
 #### 意图
 
