@@ -1,8 +1,8 @@
 ### Proxy(代理模式)
 
-![image](https://github.com/chenhh23/Design-Patterns/blob/master/design-picture/proxy.png)
+![image](https://github.com/chenhh23/Design-Patterns/blob/master/design-picture/proxy1.png)
 
-![image](https://github.com/chenhh23/Design-Patterns/blob/master/design-picture/proxy.png)
+![image](https://github.com/chenhh23/Design-Patterns/blob/master/design-picture/proxy2.png)
 
 #### 意图
 
