@@ -20,7 +20,7 @@
 ---
 
 ## 行为型模式
-- ### [Chain-Of-Responsibility(责任链模式)](https://github.com/chenhh23/Design-Patterns/blob/master/Chain Of Responsibility.md)
+- ### [Chain-Of-Responsibility(责任链模式)](https://github.com/chenhh23/Design-Patterns/blob/master/Chain-Of-Responsibility.md)
 - ### [Command(命令模式)](https://github.com/chenhh23/Design-Patterns/blob/master/Command.md)
 - ### [Interpreter(解释器模式)](https://github.com/chenhh23/Design-Patterns/blob/master/Interpreter.md)
 - ### [Iterator(迭代器模式)](https://github.com/chenhh23/Design-Patterns/blob/master/Iterator.md)
