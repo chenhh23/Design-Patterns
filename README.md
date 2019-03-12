@@ -20,7 +20,7 @@
 ---
 
 ## 行为型模式
-- ### [Chain Of Responsibility(责任链模式)](https://github.com/chenhh23/Design-Patterns/blob/master/Chain Of Responsibility.md)
+- ### [Chain-Of-Responsibility(责任链模式)](https://github.com/chenhh23/Design-Patterns/blob/master/Chain Of Responsibility.md)
 - ### [Command(命令模式)](https://github.com/chenhh23/Design-Patterns/blob/master/Command.md)
 - ### [Interpreter(解释器模式)](https://github.com/chenhh23/Design-Patterns/blob/master/Interpreter.md)
 - ### [Iterator(迭代器模式)](https://github.com/chenhh23/Design-Patterns/blob/master/Iterator.md)
@@ -29,7 +29,7 @@
 - ### [Observer(观察者模式)](https://github.com/chenhh23/Design-Patterns/blob/master/Observer.md)
 - ### [State(状态模式)](https://github.com/chenhh23/Design-Patterns/blob/master/State.md)
 - ### [Strategy(策略模式)](https://github.com/chenhh23/Design-Patterns/blob/master/Strategy.md)
-- ### [Template Method(模板方法模式)](https://github.com/chenhh23/Design-Patterns/blob/master/Template Method.md)
+- ### [TemplateMethod(模板方法模式)](https://github.com/chenhh23/Design-Patterns/blob/master/TemplateMethod.md)
 - ### [Visitor(访问者模式))](https://github.com/chenhh23/Design-Patterns/blob/master/Visitor.md)
 
 
