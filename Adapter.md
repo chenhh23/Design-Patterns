@@ -1,10 +1,10 @@
 ### Adapter(适配器)
 
 - 类模式
-![image](/uploads/ce261dc3f6c696ff5b566e6d2bdba1d4/image.png)
+![image](https://github.com/chenhh23/Design-Patterns/blob/master/design-picture/adapter-class.png)
 
 - 对象模式
-![image](/uploads/0b95f6a45c799f0e98d1d41d70c303ec/image.png)
+![image](https://github.com/chenhh23/Design-Patterns/blob/master/design-picture/adapter-object.png)
 
 #### 意图
 将已有接口转换成期望的接口，使得接口不兼容的类一起工作
